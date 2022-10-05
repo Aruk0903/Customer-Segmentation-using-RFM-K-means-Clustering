@@ -1,4 +1,4 @@
-# Customer-Segmentation-using-RFM-K-means-Clustering
+# Customer-Segmentation-using-RFM-and-K-means-Clustering
 
 # Customer Segmentation
 
